@@ -2,7 +2,7 @@
 layout: post
 title: Pre-compiling CSS
 img: /assets/pre-css.png/
-permalink: /posts/pre-compiling-css/
+permalink: /blog/pre-compiling-css/
 comments: true
 ---
 

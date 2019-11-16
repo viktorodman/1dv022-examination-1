@@ -2,7 +2,7 @@
 layout: post
 title: Robots.txt
 img: /assets/roboto.png/
-permalink: /posts/robots-text/
+permalink: /blog/robots-text/
 comments: true
 ---
 

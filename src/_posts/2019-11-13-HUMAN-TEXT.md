@@ -2,7 +2,7 @@
 layout: post
 title: Human.txt
 img: /assets/human.png/
-permalink: /posts/human-text/
+permalink: /blog/human-text/
 comments: true
 ---
 
