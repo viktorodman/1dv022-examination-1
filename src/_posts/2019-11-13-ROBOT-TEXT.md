@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Robots.txt
-img: /assets/roboto.png/
-permalink: /blog/robots-text/
+img: /assets/roboto.png
+permalink: /robots-text/
 comments: true
 ---
 

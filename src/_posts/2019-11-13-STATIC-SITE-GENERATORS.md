@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Static Site Generators
-img: /assets/jekyll-logo.png/
-permalink: /blog/static-site-generator/
+img: /assets/jekyll-logo.png
+permalink: /static-site-generator/
 comments: true
 ---
 

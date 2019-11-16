@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Pre-compiling CSS
-img: /assets/pre-css.png/
-permalink: /blog/pre-compiling-css/
+img: /assets/pre-css.png
+permalink: /pre-compiling-css/
 comments: true
 ---
 

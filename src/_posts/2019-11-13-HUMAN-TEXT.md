@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Human.txt
-img: /assets/human.png/
-permalink: /blog/human-text/
+img: /assets/human.png
+permalink: /human-text/
 comments: true
 ---
 
